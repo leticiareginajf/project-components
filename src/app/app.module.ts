@@ -7,11 +7,10 @@ import { CardsModule } from './cards/cards.module';
 import { InlineComponent } from './inline/inline.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
-    InlineComponent,
-    
   ],
   imports: [
     BrowserModule,
